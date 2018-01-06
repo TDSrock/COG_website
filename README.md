@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# [](#header-1)Community of Oceanic Gamers Forum website
 
-You can use the [editor on GitHub](https://github.com/TDSrock/COG_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo contains a forum website built for the Community of Oceanic Gamers. A community started by my Australian mate Cameron "AUSSIEPRO" Warton. The website leverages the basis from MyBB 1.8.10 and a number of add-ons avaible for MyBB 1.8.10. As a part of managing the website I drasticly changed the CSS and website structure aswell as updated some of the add-ons as they in certain cases had bugs within their PHP code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://i.imgur.com/UFfSF4Y.png)
+A screenshot of the website massivly broken.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TDSrock/COG_website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Will update this section in the future to contain better images displaying the website.
